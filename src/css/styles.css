@@ -1,0 +1,57 @@
+.shadow {
+  box-shadow: 2px 0px 2px 1px rgba(34, 60, 80, 0.25);
+}
+
+.block_flex_end {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.block_flex_start {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.w100pr {
+  width: 100%;
+}
+
+.font-small {
+  font-size:smaller;
+}
+
+.border-bottom {
+  border-bottom: 1px dashed gray; /* Рамка вокруг таблицы */
+  border-collapse: collapse; /* Убираем двойные линии между ячейками */
+}
+
+.vert-align-top {
+  vertical-align:top;
+}
+
+.font-weight-bold{
+  font-weight:bold;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 2px rgba(0,0,0,0.2),
+  0px -5px 15px rgba(255,255,255,0.3);
+}
+
+.img-opacity {
+  opacity: 0.25;
+}
+
+.img-opacity:hover {
+  opacity: 1;
+  transform: scale(1.2);
+}
+
+.none {
+  margin: 0px;
+  padding: 0px;
+}

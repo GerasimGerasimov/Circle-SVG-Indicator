@@ -1,0 +1,5 @@
+.box {
+  width: 32px;
+  height: 32px;
+  border: 1px dashed gray; /* Рамка вокруг таблицы */
+}
